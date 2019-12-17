@@ -1,8 +1,8 @@
 var exec = require('cordova/exec');
 
-var PLUGIN_NAME = "SwiftPlugin"; // This is just for code completion uses.
+var PLUGIN_NAME = "SwiftPlugin"; 
 
-var SwiftPlugin = function() {}; // This just makes it easier for
+var SwiftPlugin = function() {}; 
  us to export all of the functions at once.
 // All of your plugin functions go below this. 
 // Note: We are not passing any options in the [] block for this, so make sure you include the empty [] block.
