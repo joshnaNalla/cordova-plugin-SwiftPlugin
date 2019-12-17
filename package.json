@@ -1,6 +1,6 @@
 {
   "name": "SwiftPlugin",
-  "version": "0.0.1", // Plugin version.
+  "version": "0.0.1",
   "description": "Your Plugin Description",
   "cordova": {
     "id": "cordova-plugin-SwiftPlugin", 
@@ -8,12 +8,12 @@
       "ios"
     ]
   },
-  "keywords": [ // Keywords that your plugin will be searched by. 
+  "keywords": [
     "cordova",
     "camera",
     "ecosystem:cordova",
     "cordova-ios",
   ],
-  "author": "Joshna", // Your name
-  "license": "Effiasoft" // The license you want (recommended to be MIT)
+  "author": "Joshna", 
+  "license": "Effiasoft"
 }
