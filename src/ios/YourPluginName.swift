@@ -1,6 +1,6 @@
-@objc(SwiftPlugin) class YourPluginName : CDVPlugin {
+@objc(SwiftPlugin) class SwiftPlugin : CDVPlugin {
   @objc(callFramework:) // Declare your function name.
-  func yourFunctionName(command: CDVInvokedUrlCommand) { // write the function code.
+  func callFramework(command: CDVInvokedUrlCommand) { // write the function code.
     /* 
      * Always assume that the plugin will fail.
      * Even if in this example, it can't.
